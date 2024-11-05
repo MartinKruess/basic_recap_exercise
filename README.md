@@ -66,12 +66,17 @@ Die Hauptaufgabe wird es sein eine Webseite zu bauen, die dem Bild so ähnlich w
      - in dieser Section sind zwei Cards (`div`), die `400px` Breit und `300px` Hoch sind. **Benutze KEIN position!**
    - Section 2
      - Das Formular soll mittig ausgerechtet sein und eine Breite von `15rem` haben.
-   - Section 3
-     - richte das Hintergrundbild so gut wie möglich aus
-     - sorge dafür, dass das Hintergrundbild nur noch `60%` der ursprünglichen Helligkeit (`brightness`) hat.
+
+![Beispielbild Oben](./images/recap_exmaple01.png)
+
+- Section 3
+  - richte das Hintergrundbild so gut wie möglich aus
+  - sorge dafür, dass das Hintergrundbild nur noch `60%` der ursprünglichen Helligkeit (`brightness`) hat.
 
 4. Der Footer hat eine Höhe von `160px` in `rem`
    - Richte die Icons rechts und die Links links aus. **Nutze KEINE position!**
+
+![Beispielbild Unten](./images/recap_exmaple02.png)
 
 ## Hilfestellung
 
